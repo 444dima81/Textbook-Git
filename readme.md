@@ -1,4 +1,5 @@
 # Инструкция по работе с GIT
+<!-- <link rel="stylesheet" href="./css/main.css"> -->
 
 LICENSE: [MIT](license.md)
 
@@ -8,13 +9,13 @@ LICENSE: [MIT](license.md)
 
 ### Содержание:
 1. [Введение](/main/introduction.md) 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+2. [Персональные настройки Git](/main/personal-setting.md)
+3. [Команды в терминале Windows PowerShell](/main/win_powershell.md)
+4. [Статусы отслеживания](/main/status.md)
+5. [Основные команды Git](/main/basic_commands.md)
+6. [Команды для работы с ветками](/main/branches.md)
+7. [Клонирование удаленных репозиториев](/main/cloning_repositories.md)
+8. [Примеры названия коммитов](/main/commit_title.md)
 
 
 ---
